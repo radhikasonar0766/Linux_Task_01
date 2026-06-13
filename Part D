@@ -1,0 +1,27 @@
+Create files:
+
+touch Networking/notes.txt
+touch Linux/commands.txt
+touch Reports/report.txt
+
+Copy file:
+
+cp Networking/notes.txt Linux/
+
+Move file:
+
+mv Linux/notes.txt Reports/
+
+Rename file:
+
+mv Reports/notes.txt Reports/linux_notes.txt
+
+Delete file:
+
+rm Reports/linux_notes.txt
+Command Purposes
+Command	Purpose
+touch	Creates new file
+cp	Copies files
+mv	Moves or renames files
+rm	Deletes files
